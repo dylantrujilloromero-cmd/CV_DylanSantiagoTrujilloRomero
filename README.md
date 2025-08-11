@@ -5,7 +5,7 @@
 **Profesión:** _Analista y Desarrollador de Software
 
 ## 📞 Contacto
-- **Email:** [dylantrujillo.romero@gmail.com](dylantrujillo.romero@gmail.com)
+- **Email:** [dylantrujillo.romero@gmail.com](mailto:dylantrujillo.romero@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
