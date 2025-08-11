@@ -15,7 +15,7 @@
 - Typescript.
 - HTML
 
-### **SENA** _(2025 - Actualidad)_
+
 
 
 ## 🎓 Educación
