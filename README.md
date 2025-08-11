@@ -21,7 +21,7 @@
 ## 🎓 Educación
 ### **SENA** _(2025 - Actualidad)_
 - Aprendiz de Analisis y Desarrollo de Software
-- Fernando Mazuera Villegas
+- Fernando Mazuera Villegas (2024)
   - Tecnico en Instalación de Redes Eléctricas Domiciliarias.
   - Bachiller. 
 
