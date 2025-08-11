@@ -1,8 +1,8 @@
-# CV_Example
+# CV_DylanSantiagoTrujilloRomero
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Analista y Desarrollador de Software
+## Dylan Santiago Trujillo Romero
+**Profesión:** Analista y Desarrollador de Software
 
 ## 📞 Contacto
 - **Email:** [dylantrujillo.romero@gmail.com](mailto:dylantrujillo.romero@gmail.com)
